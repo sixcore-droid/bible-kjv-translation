@@ -34,28 +34,28 @@
    "slug": "ruth"
   },
   {
-   "name": "I Samuel",
-   "slug": "isamuel"
+   "name": "1 Samuel",
+   "slug": "1samuel"
   },
   {
-   "name": "II Samuel",
-   "slug": "iisamuel"
+   "name": "2 Samuel",
+   "slug": "2samuel"
   },
   {
-   "name": "I Kings",
-   "slug": "ikings"
+   "name": "1 Kings",
+   "slug": "1kings"
   },
   {
-   "name": "II Kings",
-   "slug": "iikings"
+   "name": "2 Kings",
+   "slug": "2kings"
   },
   {
-   "name": "I Chronicles",
-   "slug": "ichronicles"
+   "name": "1 Chronicles",
+   "slug": "1chronicles"
   },
   {
-   "name": "II Chronicles",
-   "slug": "iichronicles"
+   "name": "2 Chronicles",
+   "slug": "2chronicles"
   },
   {
    "name": "Ezra",
@@ -182,12 +182,12 @@
    "slug": "romans"
   },
   {
-   "name": "I Corinthians",
-   "slug": "icorinthians"
+   "name": "1 Corinthians",
+   "slug": "1corinthians"
   },
   {
-   "name": "II Corinthians",
-   "slug": "iicorinthians"
+   "name": "2 Corinthians",
+   "slug": "2corinthians"
   },
   {
    "name": "Galatians",
@@ -206,20 +206,20 @@
    "slug": "colossians"
   },
   {
-   "name": "I Thessalonians",
-   "slug": "ithessalonians"
+   "name": "1 Thessalonians",
+   "slug": "1thessalonians"
   },
   {
-   "name": "II Thessalonians",
-   "slug": "iithessalonians"
+   "name": "2 Thessalonians",
+   "slug": "2thessalonians"
   },
   {
-   "name": "I Timothy",
-   "slug": "itimothy"
+   "name": "1 Timothy",
+   "slug": "1timothy"
   },
   {
-   "name": "II Timothy",
-   "slug": "iitimothy"
+   "name": "2 Timothy",
+   "slug": "2timothy"
   },
   {
    "name": "Titus",
@@ -238,24 +238,24 @@
    "slug": "james"
   },
   {
-   "name": "I Peter",
-   "slug": "ipeter"
+   "name": "1 Peter",
+   "slug": "1peter"
   },
   {
-   "name": "II Peter",
-   "slug": "iipeter"
+   "name": "2 Peter",
+   "slug": "2peter"
   },
   {
-   "name": "I John",
-   "slug": "ijohn"
+   "name": "1 John",
+   "slug": "1john"
   },
   {
-   "name": "II John",
-   "slug": "iijohn"
+   "name": "2 John",
+   "slug": "2john"
   },
   {
-   "name": "III John",
-   "slug": "iiijohn"
+   "name": "3 John",
+   "slug": "3john"
   },
   {
    "name": "Jude",
