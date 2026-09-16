@@ -1,0 +1,269 @@
+{
+ "translation": "KJV",
+ "books": [
+  {
+   "name": "Genesis",
+   "slug": "genesis"
+  },
+  {
+   "name": "Exodus",
+   "slug": "exodus"
+  },
+  {
+   "name": "Leviticus",
+   "slug": "leviticus"
+  },
+  {
+   "name": "Numbers",
+   "slug": "numbers"
+  },
+  {
+   "name": "Deuteronomy",
+   "slug": "deuteronomy"
+  },
+  {
+   "name": "Joshua",
+   "slug": "joshua"
+  },
+  {
+   "name": "Judges",
+   "slug": "judges"
+  },
+  {
+   "name": "Ruth",
+   "slug": "ruth"
+  },
+  {
+   "name": "I Samuel",
+   "slug": "isamuel"
+  },
+  {
+   "name": "II Samuel",
+   "slug": "iisamuel"
+  },
+  {
+   "name": "I Kings",
+   "slug": "ikings"
+  },
+  {
+   "name": "II Kings",
+   "slug": "iikings"
+  },
+  {
+   "name": "I Chronicles",
+   "slug": "ichronicles"
+  },
+  {
+   "name": "II Chronicles",
+   "slug": "iichronicles"
+  },
+  {
+   "name": "Ezra",
+   "slug": "ezra"
+  },
+  {
+   "name": "Nehemiah",
+   "slug": "nehemiah"
+  },
+  {
+   "name": "Esther",
+   "slug": "esther"
+  },
+  {
+   "name": "Job",
+   "slug": "job"
+  },
+  {
+   "name": "Psalms",
+   "slug": "psalms"
+  },
+  {
+   "name": "Proverbs",
+   "slug": "proverbs"
+  },
+  {
+   "name": "Ecclesiastes",
+   "slug": "ecclesiastes"
+  },
+  {
+   "name": "Song of Solomon",
+   "slug": "songofsolomon"
+  },
+  {
+   "name": "Isaiah",
+   "slug": "isaiah"
+  },
+  {
+   "name": "Jeremiah",
+   "slug": "jeremiah"
+  },
+  {
+   "name": "Lamentations",
+   "slug": "lamentations"
+  },
+  {
+   "name": "Ezekiel",
+   "slug": "ezekiel"
+  },
+  {
+   "name": "Daniel",
+   "slug": "daniel"
+  },
+  {
+   "name": "Hosea",
+   "slug": "hosea"
+  },
+  {
+   "name": "Joel",
+   "slug": "joel"
+  },
+  {
+   "name": "Amos",
+   "slug": "amos"
+  },
+  {
+   "name": "Obadiah",
+   "slug": "obadiah"
+  },
+  {
+   "name": "Jonah",
+   "slug": "jonah"
+  },
+  {
+   "name": "Micah",
+   "slug": "micah"
+  },
+  {
+   "name": "Nahum",
+   "slug": "nahum"
+  },
+  {
+   "name": "Habakkuk",
+   "slug": "habakkuk"
+  },
+  {
+   "name": "Zephaniah",
+   "slug": "zephaniah"
+  },
+  {
+   "name": "Haggai",
+   "slug": "haggai"
+  },
+  {
+   "name": "Zechariah",
+   "slug": "zechariah"
+  },
+  {
+   "name": "Malachi",
+   "slug": "malachi"
+  },
+  {
+   "name": "Matthew",
+   "slug": "matthew"
+  },
+  {
+   "name": "Mark",
+   "slug": "mark"
+  },
+  {
+   "name": "Luke",
+   "slug": "luke"
+  },
+  {
+   "name": "John",
+   "slug": "john"
+  },
+  {
+   "name": "Acts",
+   "slug": "acts"
+  },
+  {
+   "name": "Romans",
+   "slug": "romans"
+  },
+  {
+   "name": "I Corinthians",
+   "slug": "icorinthians"
+  },
+  {
+   "name": "II Corinthians",
+   "slug": "iicorinthians"
+  },
+  {
+   "name": "Galatians",
+   "slug": "galatians"
+  },
+  {
+   "name": "Ephesians",
+   "slug": "ephesians"
+  },
+  {
+   "name": "Philippians",
+   "slug": "philippians"
+  },
+  {
+   "name": "Colossians",
+   "slug": "colossians"
+  },
+  {
+   "name": "I Thessalonians",
+   "slug": "ithessalonians"
+  },
+  {
+   "name": "II Thessalonians",
+   "slug": "iithessalonians"
+  },
+  {
+   "name": "I Timothy",
+   "slug": "itimothy"
+  },
+  {
+   "name": "II Timothy",
+   "slug": "iitimothy"
+  },
+  {
+   "name": "Titus",
+   "slug": "titus"
+  },
+  {
+   "name": "Philemon",
+   "slug": "philemon"
+  },
+  {
+   "name": "Hebrews",
+   "slug": "hebrews"
+  },
+  {
+   "name": "James",
+   "slug": "james"
+  },
+  {
+   "name": "I Peter",
+   "slug": "ipeter"
+  },
+  {
+   "name": "II Peter",
+   "slug": "iipeter"
+  },
+  {
+   "name": "I John",
+   "slug": "ijohn"
+  },
+  {
+   "name": "II John",
+   "slug": "iijohn"
+  },
+  {
+   "name": "III John",
+   "slug": "iiijohn"
+  },
+  {
+   "name": "Jude",
+   "slug": "jude"
+  },
+  {
+   "name": "Revelation of John",
+   "slug": "revelationofjohn"
+  }
+ ]
+}
